@@ -33,7 +33,7 @@ class Ranker(object):
             'rpp': rpp,
             'query': query,
             'itemlist': itemlist,
-            'num_found': len(itemlist)
+            'num_found': len(ranking)
         }
 
 
